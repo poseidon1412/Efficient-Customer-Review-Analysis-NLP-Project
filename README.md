@@ -32,3 +32,7 @@ Note: If you want to specify a different host or port, you can modify the app.ru
 app.run(host='0.0.0.0', port=8080)
 
 This will make the app accessible at `http://0.0.0.0:8080/`.
+
+Hosting on Cloud Platforms
+
+various cloud services offers varying methods of deployment using local host deployment as exampke adust accordingly
