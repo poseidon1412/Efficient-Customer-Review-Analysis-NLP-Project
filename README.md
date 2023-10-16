@@ -1,9 +1,9 @@
 # Efficient-Customer-Review-Analysis-NLP-Project
-  api application 
+ ### api application 
   
-  video tutorial
+ ### video tutorial
   
-To launch or host the Flask app on a cloud or localhost, you can follow these steps:
+### To launch or host the Flask app on a cloud or localhost, you can follow these steps:
 
 Prerequisites
 Before proceeding, make sure you have the following:
