@@ -1,7 +1,7 @@
 # Efficient-Customer-Review-Analysis-NLP-Project
  ### api application http://evangelistbezalel.pythonanywhere.com/
   
- ### video tutorial
+ ### video tutorial https://www.youtube.com/watch?v=OIAE2-lotJI
   
 ### To launch or host the Flask app on a cloud or localhost, you can follow these steps:
 
